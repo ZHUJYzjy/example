@@ -10,4 +10,4 @@
 
 * 本店模型已针对大规模数据处理进行性能优化和工程化改进，适用于大面积（如单次处理数百平方公里）遥感影像的特定信息提取，可以直接进行工程化应用。
 
-受限于文件大小限制，此处均为快视图，原图可通过百度网盘下载：https://pan.baidu.com/s/1i2WZ8Jrqcl_8iGtiYWPjrQ   提取码: dqrj
+由于文件体积上传受限，此处均为快视图，原图可通过百度网盘下载：https://pan.baidu.com/s/1i2WZ8Jrqcl_8iGtiYWPjrQ   提取码: dqrj
